@@ -1,0 +1,13 @@
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\UserInputForm\bin\Debug\UserInputForm.exe.config
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\UserInputForm\bin\Debug\UserInputForm.exe
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\UserInputForm\bin\Debug\UserInputForm.pdb
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\UserInputForm\bin\Debug\UserInputForm.xml
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\UserInputForm\obj\Debug\UserInputForm.vbproj.AssemblyReference.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\UserInputForm\obj\Debug\UserInputForm.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\UserInputForm\obj\Debug\UserInputForm.Form1.resources
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\UserInputForm\obj\Debug\UserInputForm.Resources.resources
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\UserInputForm\obj\Debug\UserInputForm.vbproj.GenerateResource.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\UserInputForm\obj\Debug\UserInputForm.vbproj.CoreCompileInputs.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\UserInputForm\obj\Debug\UserInputForm.exe
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\UserInputForm\obj\Debug\UserInputForm.xml
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\UserInputForm\obj\Debug\UserInputForm.pdb
