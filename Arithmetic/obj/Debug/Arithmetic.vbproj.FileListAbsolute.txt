@@ -1,0 +1,13 @@
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\Arithmetic\bin\Debug\Arithmetic.exe.config
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\Arithmetic\bin\Debug\Arithmetic.exe
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\Arithmetic\bin\Debug\Arithmetic.xml
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\Arithmetic\obj\Debug\Arithmetic.vbproj.AssemblyReference.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\Arithmetic\obj\Debug\Arithmetic.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\Arithmetic\obj\Debug\Arithmetic.Form1.resources
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\Arithmetic\obj\Debug\Arithmetic.Resources.resources
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\Arithmetic\obj\Debug\Arithmetic.vbproj.GenerateResource.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\Arithmetic\obj\Debug\Arithmetic.vbproj.CoreCompileInputs.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\Arithmetic\obj\Debug\Arithmetic.exe
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\Arithmetic\obj\Debug\Arithmetic.xml
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\Arithmetic\obj\Debug\Arithmetic.pdb

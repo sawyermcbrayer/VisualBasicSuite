@@ -1,0 +1,13 @@
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\BeginnerVBapp\bin\Debug\BeginnerVBapp.exe.config
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\BeginnerVBapp\bin\Debug\BeginnerVBapp.exe
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\BeginnerVBapp\bin\Debug\BeginnerVBapp.pdb
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\BeginnerVBapp\bin\Debug\BeginnerVBapp.xml
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\BeginnerVBapp\obj\Debug\BeginnerVBapp.vbproj.AssemblyReference.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\BeginnerVBapp\obj\Debug\BeginnerVBapp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\BeginnerVBapp\obj\Debug\BeginnerVBapp.Form1.resources
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\BeginnerVBapp\obj\Debug\BeginnerVBapp.Resources.resources
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\BeginnerVBapp\obj\Debug\BeginnerVBapp.vbproj.GenerateResource.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\BeginnerVBapp\obj\Debug\BeginnerVBapp.vbproj.CoreCompileInputs.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\BeginnerVBapp\obj\Debug\BeginnerVBapp.exe
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\BeginnerVBapp\obj\Debug\BeginnerVBapp.xml
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\BeginnerVBapp\obj\Debug\BeginnerVBapp.pdb
