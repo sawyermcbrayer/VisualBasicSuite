@@ -1,0 +1,13 @@
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionContinued\bin\Debug\SelectionContinued.exe.config
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionContinued\bin\Debug\SelectionContinued.exe
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionContinued\bin\Debug\SelectionContinued.pdb
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionContinued\bin\Debug\SelectionContinued.xml
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionContinued\obj\Debug\SelectionContinued.vbproj.AssemblyReference.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionContinued\obj\Debug\SelectionContinued.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionContinued\obj\Debug\SelectionContinued.Form1.resources
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionContinued\obj\Debug\SelectionContinued.Resources.resources
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionContinued\obj\Debug\SelectionContinued.vbproj.GenerateResource.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionContinued\obj\Debug\SelectionContinued.vbproj.CoreCompileInputs.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionContinued\obj\Debug\SelectionContinued.exe
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionContinued\obj\Debug\SelectionContinued.xml
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionContinued\obj\Debug\SelectionContinued.pdb

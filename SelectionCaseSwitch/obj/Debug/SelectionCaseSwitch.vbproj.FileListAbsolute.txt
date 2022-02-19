@@ -1,0 +1,13 @@
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionCaseSwitch\bin\Debug\SelectionCaseSwitch.exe.config
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionCaseSwitch\bin\Debug\SelectionCaseSwitch.exe
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionCaseSwitch\bin\Debug\SelectionCaseSwitch.pdb
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionCaseSwitch\bin\Debug\SelectionCaseSwitch.xml
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionCaseSwitch\obj\Debug\SelectionCaseSwitch.vbproj.AssemblyReference.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionCaseSwitch\obj\Debug\SelectionCaseSwitch.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionCaseSwitch\obj\Debug\SelectionCaseSwitch.Form1.resources
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionCaseSwitch\obj\Debug\SelectionCaseSwitch.Resources.resources
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionCaseSwitch\obj\Debug\SelectionCaseSwitch.vbproj.GenerateResource.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionCaseSwitch\obj\Debug\SelectionCaseSwitch.vbproj.CoreCompileInputs.cache
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionCaseSwitch\obj\Debug\SelectionCaseSwitch.exe
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionCaseSwitch\obj\Debug\SelectionCaseSwitch.xml
+C:\Users\Sawyer\Documents\VisualStudioBootCamp\SelectionCaseSwitch\obj\Debug\SelectionCaseSwitch.pdb
